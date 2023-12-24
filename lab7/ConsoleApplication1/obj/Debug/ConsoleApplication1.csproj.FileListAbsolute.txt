@@ -1,0 +1,6 @@
+/Users/mariaseludakova/Desktop/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/mariaseludakova/Desktop/ConsoleApplication1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/mariaseludakova/Desktop/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/Users/mariaseludakova/Desktop/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/mariaseludakova/Desktop/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/mariaseludakova/Desktop/ConsoleApplication1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

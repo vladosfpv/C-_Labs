@@ -1,0 +1,6 @@
+/Users/mariaseludakova/Desktop/lab2/lab2/bin/Debug/lab2.exe
+/Users/mariaseludakova/Desktop/lab2/lab2/bin/Debug/lab2.pdb
+/Users/mariaseludakova/Desktop/lab2/lab2/obj/Debug/lab2.csproj.AssemblyReference.cache
+/Users/mariaseludakova/Desktop/lab2/lab2/obj/Debug/lab2.csproj.CoreCompileInputs.cache
+/Users/mariaseludakova/Desktop/lab2/lab2/obj/Debug/lab2.exe
+/Users/mariaseludakova/Desktop/lab2/lab2/obj/Debug/lab2.pdb
